@@ -1,7 +1,7 @@
-### Bonjour, I'm Gabin 👋
+<h2 align="center">Bonjour, I'm Gabin 👋</h2>
 
-I am a freelance developer specialized in React. I make funny open-source experiments that sometimes turn out to be useful.
+<p align="center">I am a freelance software developer doing all things TypeScript, Node.js and React.js.</p>
 
-- [github.com/zhouzi](https://github.com/zhouzi)
-- [gabinaureche.com](https://gabinaureche.com)
-- [linkedin.com/in/gabinaureche](https://www.linkedin.com/in/gabinaureche/)
+<p align="center">
+  <a href="https://github.com/zhouzi">github.com/zhouzi</a> ∙ <a href="https://gabinaureche.com">gabinaureche.com</a> ∙ <a href="https://www.linkedin.com/in/gabinaureche/">linkedin.com/in/gabinaureche</a>  
+</p>
